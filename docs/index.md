@@ -28,10 +28,11 @@ hero:
 | xStarbound                 | [Yes](https://github.com/Sergaliciousnes/xStarbound-Switch2)               | GitHub   | Games         | Sergalicious                 | Application |
 | Super Mario 64 EX          | [Yes](https://github.com/NerdsMcGee/sm64ex-alo-s2)                         | GitHub   | Games         | NerdsMcGee                   | Application |
 | Sonic 3 AIR                | [Yes](https://github.com/NerdsMcGee/sonic3air-s2)                          | GitHub   | Games         | NerdsMcGee                   | Application |
-| Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub                                                | Games    | Sonic Team Junior, Hexa      | Application |
-| Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub                                                | Games    | Kart Krew, Hexa              | Application |
+| Sonic Robo Blast 2         | [Yes](https://github.com/misshexa66/SRB2-Ounce)                            | GitHub   | Games         | Sonic Team Junior, Hexa      | Application |
+| Dr. Robotnik's Ring Racers | [Yes](https://github.com/misshexa66/RingRacers-Ounce)                      | GitHub   | Games         | Kart Krew, Hexa              | Application |
 | pokeplatinum               | [Yes](https://github.com/cybervisi0n/pokeplatinum)                         | GitHub   | Games         | cybervisi0n                  | Application |
 | Dusklight                  | [Yes](https://github.com/wowilookgood/dusklight)                           | GitHub   | Games         | wowilookgood, Twilit Realm   | Application |
+| UnleashedRecomp            | [Yes](https://github.com/Lightmaxifrvr/UnleashedRecomp-NX2)                | GitGub   | Games         | Lightmaxifrvr, hedge-dev and more | Application |
 | Chiaki-ng/Akira            | [Yes](https://github.com/chiaki-ng/akira-ounce)                            | GitHub   | Streaming     | xlanor, streetpea, kkwong, and others | Application |
 | Moonlight                  | [Yes](https://gitlab.com/Azkali/moonlight-nx2)                             | GitLab   | Streaming     | Azkali                      | Application |
 | RetroArch                  | [Yes](https://github.com/NerdsMcGee/retroarch-s2)                          | GitHub   | Emulation     | NerdsMcGee, libretro         | Application |
